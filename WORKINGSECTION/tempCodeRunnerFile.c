@@ -1,2 +1,8 @@
-
-    if(arr[0][0]==c){
+void Tprime()
+{
+    if (inp[i] == '*')
+    {
+        F();
+        Tprime();
+    }
+}
