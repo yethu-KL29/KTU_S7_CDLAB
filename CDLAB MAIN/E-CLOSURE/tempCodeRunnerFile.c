@@ -1,0 +1,1 @@
+char result[20][20],copy[3],states[20][20];
