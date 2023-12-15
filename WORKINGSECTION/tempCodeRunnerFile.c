@@ -1,8 +1,1 @@
-void Tprime()
-{
-    if (inp[i] == '*')
-    {
-        F();
-        Tprime();
-    }
-}
+] == '(' && stk[z + 1] == 'E' && stk[z + 2] == ')
